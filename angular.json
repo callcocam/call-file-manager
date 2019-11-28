@@ -28,6 +28,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/ng6-file-man/assets/ng6-file-man-styles.scss",
               "src/styles.scss"
             ],
             "scripts": []
